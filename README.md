@@ -11,7 +11,7 @@ strengthen the next. I want the work to be good *and* the economics to make
 sense, and I don't see those as in tension. A venture has to be worth building
 and worth the return it aims for.
 
-Based in Virginia. 🌐 [landonboggs.com](https://landonboggs.com)
+🌐 [landonboggs.com](https://landonboggs.com)
 
 ## The firm
 
@@ -29,7 +29,7 @@ future exit, or a long-haul investment in the core idea.
 | | Company | Field | Status | What it is |
 | --- | --- | --- | --- | --- |
 | 01 | **[Goldenmind Productions](https://goldenmindproductions.com)** | Entertainment | Operating | Artist development, events, merchandise and social-media marketing. A full path for an independent artist to build. |
-| 02 | **[Vona Food](https://vonafood.com)** | Food | Operating | Never-frozen meal prep across about thirty miles of Fredericksburg, plus limited private-event catering. |
+| 02 | **[Vona Food](https://vonafood.com)** | Food | Operating | Never-frozen meal prep, plus limited private-event catering. |
 | 03 | **BuyIt Acquisitions** | Real estate | Operating | The real-estate investment arm: value-add and rental opportunities across residential and commercial property. |
 | 04 | **[Fledge Software](https://github.com/Fledge-Software)** | Software | In development | A set of apps for one- to five-person service businesses. Each business picks the tools that are right for it. |
 
