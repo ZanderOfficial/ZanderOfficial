@@ -32,8 +32,6 @@ future exit, or a long-haul investment in the core idea.
 | 02 | **[Vona Food](https://vonafood.com)** | Food | Operating | Never-frozen meal prep across about thirty miles of Fredericksburg, plus limited private-event catering. |
 | 03 | **BuyIt Acquisitions** | Real estate | Operating | The real-estate investment arm: value-add and rental opportunities across residential and commercial property. |
 | 04 | **[Fledge Software](https://github.com/Fledge-Software)** | Software | In development | A set of apps for one- to five-person service businesses. Each business picks the tools that are right for it. |
-| 05 | **Visionary Labs** | Spaces | In development | Studios, a recording room, co-working with a small cafe, and offices for one to twelve people. Built for young entrepreneurs. |
-| 06 | **Meditation Station** | Fitness | In development | A gym franchise of small fitness spaces set inside other developments, for monthly members. |
 
 ### Fledge Software
 
