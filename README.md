@@ -50,6 +50,8 @@ Mozilla Public License 2.0.
 
 ### Project Companies 
 
+The ventures I am working on.
+
 | | Company | Field | Status | What it is |
 | --- | --- | --- | --- | --- |
 | 01 | **[Goldenmind Productions](https://goldenmindproductions.com)** | Entertainment | Operating | Artist development, events, merchandise and social-media marketing. A full path for an independent artist to build. |
