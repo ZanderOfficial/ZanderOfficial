@@ -57,6 +57,6 @@ Docker · Tailscale · Ollama · Claude Code
 | | |
 | --- | --- |
 | Website | [landonboggs.com](https://landonboggs.com) |
-| Fledge | [hello@fledgesoftware.com](mailto:hello@fledgesoftware.com) |
+| Fledge | [landon@fledgesoftware.com](mailto:landon@fledgesoftware.com) |
 
 🌐 [landonboggs.com](https://landonboggs.com) · 🐦 [fledgesoftware.com](https://fledgesoftware.com) · 🧭 [syrinxapp.dev](https://syrinxapp.dev)
