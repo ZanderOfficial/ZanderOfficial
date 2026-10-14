@@ -11,7 +11,7 @@ strengthen the next. I want the work to be good *and* the economics to make
 sense, and I don't see those as in tension. A venture has to be worth building
 and worth the return it aims for.
 
-Based in Fredericksburg, Virginia. 🌐 [landonboggs.com](https://landonboggs.com)
+Based in Virginia. 🌐 [landonboggs.com](https://landonboggs.com)
 
 ## The firm
 
