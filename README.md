@@ -13,7 +13,7 @@ and worth the return it aims for.
 
 🌐 [landonboggs.com](https://landonboggs.com)
 
-## The firm
+## My firm
 
 **[BuyIt Ventures](https://buyitventures.com)**, an equity development firm
 with its own fund.
@@ -24,15 +24,6 @@ estate. Operators who know and care stay at the helm, and the firm's resources
 handle everything else. Each company is scaled toward one of two outcomes: a
 future exit, or a long-haul investment in the core idea.
 
-## Portfolio Companies
-
-| | Company | Field | Status | What it is |
-| --- | --- | --- | --- | --- |
-| 01 | **[Goldenmind Productions](https://goldenmindproductions.com)** | Entertainment | Operating | Artist development, events, merchandise and social-media marketing. A full path for an independent artist to build. |
-| 02 | **[Vona Food](https://vonafood.com)** | Food | Operating | Never-frozen meal prep, plus limited private-event catering. |
-| 03 | **BuyIt Acquisitions** | Real estate | Operating | The real-estate investment arm: value-add and rental opportunities across residential and commercial property. |
-| 04 | **[Fledge Software](https://github.com/Fledge-Software)** | Software | In development | A set of apps for one- to five-person service businesses. Each business picks the tools that are right for it. |
-
 ### Fledge Software
 
 I co-founded Fledge in 2026 with Christian Arroyo. I handle product, design,
@@ -40,8 +31,8 @@ operations and sales. None of it is generally available yet.
 
 | Product | What it is |
 | --- | --- |
-| **Fledge App** | One app a small business runs on, made of modules. **Growth** comes first: automatic review requests, referral asks, rebook reminders and win-backs after every job. Nest, Connect, Desk, Rankings and Reach follow. |
-| **Charter** | Form a business and file its taxes without a lawyer or an accountant. |
+| **[Fledge App](https://FledgeSoftware.com)** | One app a small business runs on, made of modules. **Growth** comes first: automatic review requests, referral asks, rebook reminders and win-backs after every job. Nest, Connect, Desk, Rankings and Reach follow. |
+| **[Charter](https://charter.FledgeSoftware.com)** | Form a business and file its taxes without a lawyer or an accountant. |
 | **[Syrinx](https://github.com/Fledge-Software/Syrinx-app)** | A browser you can add plugins to. Written in Rust. Weekly preview builds for Windows 11. · [syrinxapp.dev](https://syrinxapp.dev) |
 
 ## On the bench
@@ -56,6 +47,14 @@ Mozilla Public License 2.0.
 | **[zan-tailscale-server](https://github.com/ZanderOfficial/zan-tailscale-server)** | A private coding assistant. Local LLMs run on my desktop GPU, and nothing reaches them except my Tailscale network. I chat with it, or hand it a GitHub repo to code on in a fresh sandbox. |
 | **[zans-skills](https://github.com/ZanderOfficial/zans-skills)** | My Claude Code skills: `/bughunt`, `/issuecoder`, `/prreviewer`, `/prreviewall`, `/designflow` and `/planissues`, plus a scheduled routine that hands work between them. |
 | **[My Mutha Effin Finances](https://github.com/ZanderOfficial/my-mutha-effin-finances-public)** | A personal net-worth and spending tracker built on Plaid. You run your own copy on your own accounts, so I never hold anyone's data. |
+
+### Project Companies 
+
+| | Company | Field | Status | What it is |
+| --- | --- | --- | --- | --- |
+| 01 | **[Goldenmind Productions](https://goldenmindproductions.com)** | Entertainment | Operating | Artist development, events, merchandise and social-media marketing. A full path for an independent artist to build. |
+| 02 | **[Vona Food](https://vonafood.com)** | Food | Operating | Never-frozen meal prep, plus limited private-event catering. |
+| 04 | **[Fledge Software](https://FledgeSoftware.com)** | Software | In development | A set of apps for one- to five-person service businesses. Each business picks the tools that are right for it. |
 
 ## Core values
 
