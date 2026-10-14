@@ -43,8 +43,7 @@ operations and sales. None of it is generally available yet.
 | Product | What it is |
 | --- | --- |
 | **Fledge App** | One app a small business runs on, made of modules. **Growth** comes first: automatic review requests, referral asks, rebook reminders and win-backs after every job. Nest, Connect, Desk, Rankings and Reach follow. |
-| **Fledge POS** | Planned. A point-of-sale app that grows into payment processing for a simple per-transaction fee. |
-| **Fledge Charter** | Form a business and file its taxes without a lawyer or an accountant. |
+| **Charter** | Form a business and file its taxes without a lawyer or an accountant. |
 | **[Syrinx](https://github.com/Fledge-Software/Syrinx-app)** | A browser you can add plugins to. Written in Rust. Weekly preview builds for Windows 11. · [syrinxapp.dev](https://syrinxapp.dev) |
 
 ## On the bench
@@ -59,12 +58,6 @@ Mozilla Public License 2.0.
 | **[zan-tailscale-server](https://github.com/ZanderOfficial/zan-tailscale-server)** | A private coding assistant. Local LLMs run on my desktop GPU, and nothing reaches them except my Tailscale network. I chat with it, or hand it a GitHub repo to code on in a fresh sandbox. |
 | **[zans-skills](https://github.com/ZanderOfficial/zans-skills)** | My Claude Code skills: `/bughunt`, `/issuecoder`, `/prreviewer`, `/prreviewall`, `/designflow` and `/planissues`, plus a scheduled routine that hands work between them. |
 | **[My Mutha Effin Finances](https://github.com/ZanderOfficial/my-mutha-effin-finances-public)** | A personal net-worth and spending tracker built on Plaid. You run your own copy on your own accounts, so I never hold anyone's data. |
-
-## Real estate
-
-I'm a licensed real estate agent in Virginia, with my license held at REAL
-Brokerage. I represent buyers and sellers the way each situation calls for,
-starting from what the client actually needs.
 
 ## Core values
 
@@ -93,9 +86,9 @@ specific about what you need. I read everything myself.
 
 | | |
 | --- | --- |
+| Website | [landonboggs.com](https://landonboggs.com) |
+| Fledge | [landon@fledgesoftware.com](mailto:landon@fledgesoftware.com) |
 | Email | [hello@landonboggs.com](mailto:hello@landonboggs.com) |
-| Instagram | [@buyitlandon](https://instagram.com/buyitlandon) |
 | Sponsor | [GitHub Sponsors](https://github.com/sponsors/ZanderOfficial) |
-| Based in | Fredericksburg, VA |
 
 > *"The way to get started is to quit talking and begin doing."* — Walt Disney
